@@ -2,6 +2,12 @@
 
 Flutter application showcasing the creation of an animated app bar.
 
+# Relevant YouTube Video
+
+https://youtu.be/SkkmoT_DZUA
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
