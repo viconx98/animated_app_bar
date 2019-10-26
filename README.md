@@ -2,7 +2,7 @@
 
 Flutter application showcasing the creation of an animated app bar.
 
-# Relevant YouTube Video
+## Relevant YouTube Video
 
 https://youtu.be/SkkmoT_DZUA
 
