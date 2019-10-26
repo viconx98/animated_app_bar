@@ -1,6 +1,6 @@
-# app_bars
+# animated_app_bar
 
-A new Flutter application.
+Flutter application showcasing the creation of an animated app bar.
 
 ## Getting Started
 
