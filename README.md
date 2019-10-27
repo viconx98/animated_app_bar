@@ -3,7 +3,7 @@
 Flutter application showcasing the creation of an animated app bar.
 
 ## End Result
-This is what it looks like
+
 ![](example.gif)
 
 
