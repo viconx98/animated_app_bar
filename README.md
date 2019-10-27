@@ -1,6 +1,11 @@
-# animated_app_bar
+# Animated App Bar
 
 Flutter application showcasing the creation of an animated app bar.
+
+## End Result
+This is what it looks like
+![](example.gif)
+
 
 ## Relevant YouTube Video
 
